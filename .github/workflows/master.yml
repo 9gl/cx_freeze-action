@@ -1,4 +1,4 @@
-name: All
+name: Build
 on: [push]
 jobs:
 
